@@ -1,0 +1,22 @@
+body
+{
+    background-image: url("bg3.png");
+    background-position: cover;
+}
+
+img
+{
+    width: 220px;
+}
+
+footer
+{
+    color: lightgreen;
+    background-color: lightpink;
+    position: fixed;
+    bottom:0;
+    width: 100%;
+    text-align: center;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
